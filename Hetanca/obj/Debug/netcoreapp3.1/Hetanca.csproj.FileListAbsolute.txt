@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\bin\Debug\netcoreapp3.1\Hetanca.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\bin\Debug\netcoreapp3.1\Hetanca.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\bin\Debug\netcoreapp3.1\Hetanca.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\bin\Debug\netcoreapp3.1\Hetanca.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\bin\Debug\netcoreapp3.1\Hetanca.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\bin\Debug\netcoreapp3.1\Hetanca.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\obj\Debug\netcoreapp3.1\Hetanca.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\obj\Debug\netcoreapp3.1\Hetanca.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\obj\Debug\netcoreapp3.1\Hetanca.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\obj\Debug\netcoreapp3.1\Hetanca.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\obj\Debug\netcoreapp3.1\Hetanca.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\obj\Debug\netcoreapp3.1\Hetanca.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Hetanca\obj\Debug\netcoreapp3.1\Hetanca.genruntimeconfig.cache
